@@ -1,0 +1,34 @@
+#EXTM3U
+#EXTINF:0, EBENEZER HD
+#EXTVLCOPT:network-caching=1000
+http://hds4.worldkast.com:1935/ebenezertv2/ebenezertv2/live.m3u8
+#EXTINF:0, Innovación Cristiana Radio (RD)
+http://69.175.13.34:9982/stream/1/
+#EXTINF:0, Radio Alma Cristiana (RD)
+http://node-09.zeno.fm/szu33qnppyduv?rj-ttl=5&rj-tok=AAABbh4egzUAm_NL1TbNaeE8JQ
+#EXTINF:0, Radio Bonao Bendición (RD)
+http://178.33.166.7:7504/
+#EXTINF:0, Radio Cristiana Dominicana (RD)
+http://node-03.zeno.fm/qwfamng733duv?rj-ttl=5&rj-tok=AAABbh4Px3kAByFyg8Dp5And_A
+#EXTINF:0, RADIO NUEVA VIDA
+http://radio.ministeriotv.com:8042/stream.mp3
+#EXTINF:0, REEDIFICANDO LOS MUROS CAIDOS RADIO
+http://ca1.ministeriotv.com:1935/262/262/chunklist_w1777282906.m3u8
+#EXTINF:0,96.70 FM  Pura Vida 967 (RD)
+http://23.239.68.71:9778/stream/1/
+#EXTINF:0,990 AM Radio Eternidad (RD)
+http://66.128.53.117:9950/stream
+#EXTINF:0,Aliento Vision (PR)
+http://livestreamcdn.net:1935/AlientoSD/AlientoSD/playlist.m3u8
+#EXTINF:0,Enlace Intarnacional
+https://api.new.livestream.com/accounts/2675843/events/1839332/live.m3u8
+#EXTINF:0,Genesis TV
+http://201.144.184.98:1935/genesis/smil:television.smil/chunklist.m3u8
+#EXTINF:0,Gracia TV
+http://v3.tustreaming.cl/graciatv/live1/index.m3u8?fluxustv.m3u8
+#EXTINF:0,Hosanna Vision (Panama)
+https://1206618505.rsc.cdn77.org/LS-ATL-59020-1/tracks-v1a1/mono.m3u8
+#EXTINF:0, CANAL 7 CBN ESPA&Ntilde;OL
+http://bcliveuniv-lh.akamaihd.net/i/iptv2_1@194050/master.m3u8?tecnotv.info?iptv.m3u8
+#EXTINF:0, CTN Internacional
+http://184.164.158.202:1936/48/smil:48.smil/chunklist_w2065903390_b1564000_sleng.m3u8
